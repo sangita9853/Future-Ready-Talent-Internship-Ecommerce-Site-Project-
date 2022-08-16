@@ -1,5 +1,5 @@
 
-This is a E-commerce Front End website design
+This is a E-commerce Front End website desig
 
 Web Technologies used: HTML, CSS, JavaScript
 
